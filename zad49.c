@@ -2,7 +2,6 @@
 
 #include <stdio.h>
 #include <math.h>
-//This function converts binary number to octal number
 int binarniUoktalni(long binarni)
 {
     int oktalni = 0, decimalni = 0, i = 0;
